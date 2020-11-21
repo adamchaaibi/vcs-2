@@ -1,6 +1,6 @@
 ontbijt:
 -kaas
 -melk
--conflakes
+-conflakes kellog's 
 -eieren
 -pindakaas
